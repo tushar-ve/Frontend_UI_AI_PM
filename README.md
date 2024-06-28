@@ -30,5 +30,5 @@ This is the frontend part of a full-stack web application that integrates AI-dri
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/frontend-repo.git
+   git clone https://github.com/tushar-ve/Frontend_UI_AI_PM.git
    cd frontend-repo
